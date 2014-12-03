@@ -10,4 +10,5 @@ Let's consider an example of a simple page which will have:
 - a main menu
 - a body
 - a footer
+
 Each of the components are just blocks in Onwebed.
